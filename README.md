@@ -1,13 +1,13 @@
 # Robotic-Arm
 Robotic arm made using C code. The robot it made out of lollipop sticks, servo motors and an arduino UNO following the schematic:
 
-![CIRCUIT](media/circuit.png)
+![circuit](https://user-images.githubusercontent.com/39654202/232084113-04733972-e184-4d59-9b3b-507e267c2566.png)
 
 Photos:
 
-![photo1](media/1.jpg)
-![photo2](media/2.jpg)
+![1](https://user-images.githubusercontent.com/39654202/232084943-12f195c8-0087-4c5a-ba8a-93ad09dcabe5.jpg)
+![2](https://user-images.githubusercontent.com/39654202/232084954-288f1553-47e0-4b2b-b792-d4b6a04d808a.jpg)
 
 Video:
 
-![video](media/Robot Arm.mp4)
+https://user-images.githubusercontent.com/39654202/232083835-171b3fc9-508f-42b6-a69b-4fdf9922290f.mp4
