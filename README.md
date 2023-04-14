@@ -5,8 +5,8 @@ Robotic arm made using C code. The robot it made out of lollipop sticks, servo m
 
 Photos:
 
-![1](https://user-images.githubusercontent.com/39654202/232084138-84621fb3-3203-4a2e-a97b-df9753e6fc06.jpg)
-![2](https://user-images.githubusercontent.com/39654202/232084143-a0debbda-a530-4ea8-8770-7b305fd5135e.jpg)
+![1](https://user-images.githubusercontent.com/39654202/232084138-84621fb3-3203-4a2e-a97b-df9753e6fc06.jpg | width=100)
+![2](https://user-images.githubusercontent.com/39654202/232084143-a0debbda-a530-4ea8-8770-7b305fd5135e.jpg | width=100)
 
 Video:
 
