@@ -1,5 +1,5 @@
 # Robotic-Arm
-Robotic arm made using C code. The robot it made out of lollipop sticks, servo motors and an arduino UNO following the schematic:
+For this coursework, I will be building a basic robot arm and control interface that can perform pick and place tasks. The arm will be powered by three servomotors, with two used for moving the arm and one for the gripper. I will also design a simple control interface featuring two knobs to adjust the arm's position and a button to open and close the gripper. Robotic arm made using C code. The robot it made out of lollipop sticks, servo motors and an arduino UNO following the schematic:
 
 ![circuit](https://user-images.githubusercontent.com/39654202/232084113-04733972-e184-4d59-9b3b-507e267c2566.png)
 
