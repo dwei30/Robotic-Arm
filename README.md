@@ -1,5 +1,5 @@
 # Robotic-Arm
-This project demonstrates the development of a simple robotic arm control interface for basic pick and place tasks. The arm will be powered by three servomotors, with two used for moving the arm and one for the gripper. I will also design a simple control interface featuring two knobs to adjust the arm's position and a button to open and close the gripper.
+This project demonstrates the development of a simple robotic arm control interface for basic pick and place tasks. The arm is powered by three servomotors, with two used for moving the arm and one for the gripper. The arm also features a simple control interface featuring two knobs to adjust the arm's position and a button to open and close the gripper.
 
 ## Features
 
@@ -35,6 +35,7 @@ This project demonstrates the development of a simple robotic arm control interf
 ## Photos:
 
 ![1](https://user-images.githubusercontent.com/39654202/232084943-12f195c8-0087-4c5a-ba8a-93ad09dcabe5.jpg)
+
 ![2](https://user-images.githubusercontent.com/39654202/232084954-288f1553-47e0-4b2b-b792-d4b6a04d808a.jpg)
 
 ## Video:
