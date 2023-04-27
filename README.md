@@ -19,7 +19,7 @@ This project demonstrates the development of a simple robotic arm control interf
 - Lollipop Sticks
 - Double-sided tape
 - Cotton Reels (x3)
-- Jumper wires (x20)
+- Jumper wires
 
 ## Software Requirements
 
